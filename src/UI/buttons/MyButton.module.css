@@ -1,0 +1,12 @@
+.myButton{
+    padding: 5px 15px;
+    border: 2px solid teal;
+    color: teal;
+    background: transparent;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.myButton:hover{
+    transform: scale(1.05);
+}
